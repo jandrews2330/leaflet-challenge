@@ -32,7 +32,7 @@ This project is an interactive web map that visualizes real-time earthquake data
 
 ## How to Use
 
-- Open `index.html` in your browser (or visit the [GitHub Pages link](https://yourusername.github.io/your-repo-name/) if deployed).
+- Open `index.html` in your browser (or visit (https://jandrews2330.github.io/leaflet-challenge/)).
 - Use the layer control (top right) to toggle between base maps and overlays.
 - Click any circle marker to view earthquake details.
 - Reference the legend (bottom right) for color coding by depth.
